@@ -1,0 +1,13 @@
+xgboost
+lightgbm
+matplotlib
+streamlit
+streamlit-option-menu
+scikit-learn==1.8.0
+catboost==1.2.10
+shap==0.52.0
+joblib==1.5.3
+numpy==2.4.4
+pandas==3.0.2
+plotly
+google-genai

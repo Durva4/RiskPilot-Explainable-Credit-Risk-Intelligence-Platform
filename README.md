@@ -91,7 +91,7 @@ Identifies emerging portfolio-level risk patterns and supports proactive policy 
 
 ---
 
-# 🖼️ Application Walkthrough
+# 🏦 Application Walkthrough
 
 ---
 

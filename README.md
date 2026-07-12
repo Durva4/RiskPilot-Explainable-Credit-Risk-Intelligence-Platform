@@ -108,7 +108,13 @@ The landing dashboard provides an executive summary of the entire model.
 - Dataset Summary
 - Performance Overview
 - Production vs Fallback Model Notice
+<p align="center">
+  <img src="ss/Dashboard_1.png" alt="Executive Risk Dashboard" width="85%">
+</p>
 
+<p align="center">
+  <img src="ss/Dashboard_2.png" alt="Executive Risk Dashboard" width="85%">
+</p>
 
 ## 2️⃣ Customer Credit Risk Assessment
 

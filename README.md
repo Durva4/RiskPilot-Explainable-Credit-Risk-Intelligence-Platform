@@ -123,6 +123,10 @@ Assess applicants individually or in bulk.
 ### Features
 
 - Manual customer entry
+  <p align="center">
+  <img src="ss/Customer_assess1.png" alt="Customer Credit Risk Assessment" width="85%">
+</p>
+
 - CSV batch upload
 - Risk Tier Prediction (P1–P4)
 - Probability distribution

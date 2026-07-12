@@ -128,11 +128,22 @@ Assess applicants individually or in bulk.
 </p>
 
 - CSV batch upload
+<p align="center">
+  <img src="ss/Customer_assess3.png" alt="Customer Credit Risk Assessment" width="85%">
+</p>
 - Risk Tier Prediction (P1–P4)
+<p align="center">
+  <img src="ss/Customer_assess2.png" alt="Customer Credit Risk Assessment" width="85%">
+  </p>
 - Probability distribution
+<p align="center">
+  <img src="ss/Customer_assess4.png" alt="Customer Credit Risk Assessment" width="85%">
+</p>
 - Prediction confidence
 - Lending recommendation
-
+<p align="center">
+  <img src="ss/Customer_assess5.png" alt="Customer Credit Risk Assessment" width="85%">
+</p>
 Possible recommendations include:
 
 - ✅ Approve
